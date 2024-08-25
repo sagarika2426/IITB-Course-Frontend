@@ -1,8 +1,10 @@
-# React + Vite
+# Course Management - Frontend
+A React.js frontend project for managing courses, including functionalities to add, view, and delete courses and their instances.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Features
+Manage Courses: Add, view, and delete courses.
+Manage Instances: Add, view, and delete course instances.
+Course Details: View detailed information about courses and their instances
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Backend Repository: 
+https://github.com/sagarika2426/IITB-Course-Backend/
