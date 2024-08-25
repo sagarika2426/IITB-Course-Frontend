@@ -1,11 +1,11 @@
-import AddCourseForm from "./components/AddCourseForm"
+import CourseInstanceForms from "./components/CourseInstanceForms"
 import Navrbar from "./components/NavBar"
 function App() {
 
   return (
    <>
    <Navrbar/>
-   <AddCourseForm/>
+   <CourseInstanceForms/>
    </>
   )
 }
